@@ -1,7 +1,7 @@
 # RuntimeModel
-
-4. Web API: 
-	a. A(Raw Dataset) => 
+# Web API: 
+  
+  a. A(Raw Dataset) => 
 
   b. Two column levels: each level has one operation: simplest case. 
 	  
@@ -17,9 +17,9 @@
 	Parallel model:
 	  A
 	/  \
- B    C
+       B    C
 	\  /
-	  D
+	 D
 	
 	Save time
 	Write the timer (structuralize the recipe…) verify the "saving"
